@@ -1,5 +1,5 @@
 !define TEST_SYSTEM {slim}
-!path C:\jars\Fixture
+!path FitNesseRoot/FrontPage/VerifyRating
 
 !|VerifyRating|
 |teamName|played|won|drawn|lost|rating?|
